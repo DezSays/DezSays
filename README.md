@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Simple-Bar](https://main.d2qbm17b0mdh9a.amplifyapp.com/)
 
-- 🌱 I’m currently learning **Amplify**
+- 🌱 I’m currently learning **Amplify**, **GraphQL**
 
 - 👯 I’m collaborating on [Fox-Flip-Server](https://github.com/DezSays/Fox-Flip-Server)
 

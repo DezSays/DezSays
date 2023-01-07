@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Simple-Bar](https://main.d2qbm17b0mdh9a.amplifyapp.com/)
 
-- 🌱 I’m currently learning **Amplify**, **GraphQL**, **Mocha**, **Chai**
+- 🌱 I’m currently learning **AWS**, **GraphQL**, **Mocha**, **Chai**
 
 - 👯 I’m collaborating on [Fox-Flip-Server](https://github.com/DezSays/Fox-Flip-Server)
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)
 
-- 💬 Ask me about **Vanilla JavaScript, React, and Python**
+- 💬 Ask me about **React, Vanilla JavaScript, and Python**
 
 - 📫 How to reach me **dezareabryan@gmail.com**
 

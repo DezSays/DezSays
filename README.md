@@ -35,9 +35,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dezsays&" alt="dezsays" /></p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dezsays&show_icons=true&locale=en&layout=compact" alt="dezsays" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dezsays&show_icons=true&locale=en&layout=compact" alt="dezsays" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dezsays&show_icons=true&locale=en" alt="dezsays" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dezsays&show_icons=true&locale=en" alt="dezsays" /></p>
 
 
 

@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dezsays" alt="dezsays" /></a> </p>
 
-- 🔭 I’m currently working on [Weather-App](https://github.com/DezSays/Weather-App)
+- 🔭 I’m currently working on [Weather-App](https://main.d3m79ulhjyz7w8.amplifyapp.com/)
 
 - 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
 

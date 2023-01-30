@@ -12,10 +12,6 @@
 
 - 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
 
-- 👯 I’m collaborating on [Fox-Flip-Server](https://github.com/DezSays/Fox-Flip-Server)
-
-- 👯 I’m collaborating on [Fox-Flip](https://main.d3k64qny3tu1ka.amplifyapp.com/)
-
 - 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)
 
 - 💬 Ask me about **React, Vanilla JavaScript, and Python**

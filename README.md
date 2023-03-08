@@ -8,13 +8,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dezsays" alt="dezsays" /></a> </p>
 
-- 🔭 I’m currently working on [Flash-Flip](https://main.dtj4kwusbjafh.amplifyapp.com/)
+- 🔭 I’m currently working on [Page by Page Full-Stack App]([https://main.dtj4kwusbjafh.amplifyapp.com/](https://github.com/DezSays/Page_By_Page_Server))
 
 - 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
 
 - 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)
 
-- 💬 Ask me about **React, Vanilla JavaScript, and Python**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **dezareabryan@gmail.com**
 

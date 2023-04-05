@@ -10,6 +10,8 @@
 
 - 🔭 I’m currently working on [Page by Page Full-Stack App](https://github.com/DezSays/Page_By_Page_Server)
 
+- 👯 I’m collaborating on [W2W](https://github.com/trimvu/w2w)
+
 - 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
 
 - 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)

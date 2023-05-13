@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dezsays" alt="dezsays" /></a> </p>
 
-- 🔭 I’m currently working on [Page by Page Full-Stack App](https://github.com/DezSays/Page_By_Page_Server)
+- 🔭 I’m currently working on [Page by Page Full-Stack App](https://main.d2sh501brp4jaq.amplifyapp.com/)
 
 - 👯 I’m collaborating on [W2W](https://github.com/trimvu/w2w)
 

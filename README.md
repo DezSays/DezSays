@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
 
-- 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://where2watch.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 

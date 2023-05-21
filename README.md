@@ -12,7 +12,7 @@
 
 - 👯 I’m collaborating on [W2W](https://github.com/trimvu/w2w)
 
-- 🌱 I’m currently learning **GraphQL**, **Mocha**, **Chai**
+- 🌱 I’m currently learning **GraphQL**, **TypeScript**, **Sass**
 
 - 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://where2watch.netlify.app/)
 

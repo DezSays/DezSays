@@ -8,13 +8,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dezsays" alt="dezsays" /></a> </p>
 
-- 🔭 I’m currently working on [Page by Page Full-Stack App](https://main.d2sh501brp4jaq.amplifyapp.com/)
-
-- 👯 I’m collaborating on [W2W](https://github.com/trimvu/w2w)
+- 🔭 I’m currently working on [Maxfield Medical](https://github.com/samuraijane/maxfield-medical)
 
 - 🌱 I’m currently learning **GraphQL**, **TypeScript**, **Sass**
 
-- 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://where2watch.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dezthedev.netlify.app/](https://dezthedev.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 

@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dezsays" alt="dezsays" /></a> </p>
 
-- 🔭 I’m currently working on [Lockbox](https://github.com/DezSays/Password_Manager)
+- 🔭 I’m currently learning [PHP](https://www.php.net/manual/en/getting-started.php) and [WebDriver.io](https://webdriver.io/docs/gettingstarted/)
 
 - 👨‍💻 My most recent projects can be found on my [Portfolio](https://dezthedev.netlify.app/)
 
